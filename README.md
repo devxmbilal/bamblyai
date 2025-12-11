@@ -46,7 +46,7 @@ Before running this project, make sure you have:
 2. **MongoDB** - [Download](https://www.mongodb.com/try/download/community) or use [MongoDB Atlas](https://www.mongodb.com/atlas)
 3. **npm** or **yarn** (comes with Node.js)
 4. **Google Gemini API Key** - [Get API Key](https://makersuite.google.com/app/apikey)
-5. **Redis** - [Download](https://redis.io/)
+5. **Redis** - [Download](https://github.com/redis-windows/redis-windows/releases)
 
 ---
 
@@ -85,6 +85,10 @@ JWT_SECRET=your-super-secret-jwt-key-change-this
 
 # Google Gemini AI API Key
 GOOGLE_AI_API_KEY=your-gemini-api-key-here
+
+# Redis Configuration
+REDIS_HOST=localhost
+REDIS_PORT=6379
 ```
 
 ---

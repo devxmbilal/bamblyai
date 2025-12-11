@@ -564,7 +564,7 @@ export default function Home() {
           <div className="logo-icon">✨</div>
           <div>
             <h1 style={{ fontSize: '22px', fontWeight: '700', color: '#8B5CF6', margin: 0 }}>Lumu</h1>
-            <span style={{ fontSize: '12px', color: '#9CA3AF' }}>AI</span>
+            <span style={{ fontSize: '12px', color: '#9CA3AF' }}>PK</span>
           </div>
         </div>
 
